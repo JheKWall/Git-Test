@@ -7,7 +7,6 @@
  * Utilizes the console output functionality to print a string of text ("Hello World!") to the console when the program is run.
  */
 
-
 #include <iostream>
 using namespace std;
 
